@@ -1,2 +1,3 @@
-# LOAT
-Boosting Adversarial Training via Fisher-Rao Norm-based Regularization - CVPR 2024
+# Diffusion Model-based Adversarial Training (DMAT)
+
+LOAT-boosted DMAT
