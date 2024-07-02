@@ -9,7 +9,7 @@ python train-wa-LORE.py --data-dir 'imagenet-data' \
     --lr 0.2 \
     --beta 5.0 \
     --unsup-fraction 0.7 \
-    --aux-data-filename '/home/xiangyuy/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
+    --aux-data-filename '~/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
     --ls 0.1 \
     --LORE_type LORE_v1\
     --gpu_id 2
@@ -26,7 +26,7 @@ python train-wa-LORE.py --data-dir 'imagenet-data' \
     --mart \
     --beta 5.0 \
     --unsup-fraction 0.7 \
-    --aux-data-filename '/home/xiangyuy/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
+    --aux-data-filename '~/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
     --ls 0.1 \
     --LORE_type LORE_v1\
     --gpu_id 2
@@ -43,7 +43,7 @@ python train-wa-LORE.py --data-dir 'imagenet-data' \
     --LSE \
     --beta 5.0 \
     --unsup-fraction 0.7 \
-    --aux-data-filename '/home/xiangyuy/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
+    --aux-data-filename '~/DM-Improves-AT/tinyimagenet_aug/tiny_edm_1m.npz' \
     --ls 0.1 \
     --LORE_type LORE_v1\
     --gpu_id 2
